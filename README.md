@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Praful Kasare</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width=400 src ="[[https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1728777600&semt=ais_hybrid](https://media.licdn.com/dms/image/v2/D4D12AQE-5Q-evNzR2Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1688467501706?e=2147483647&v=beta&t=WKY5olZZi3GUh2nF2IFRGUwpGeV2elFznXr3Jkytn_M)](https://github.com/Projeet)">
+<img align="right" alt="coding" width=400 src ="[[[https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1728777600&semt=ais_hybrid](https://media.licdn.com/dms/image/v2/D4D12AQE-5Q-evNzR2Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1688467501706?e=2147483647&v=beta&t=WKY5olZZi3GUh2nF2IFRGUwpGeV2elFznXr3Jkytn_M)](https://github.com/Projeet)](https://camo.githubusercontent.com/ccb8ec9fbc9e423a85bbfc89ba95168be5085e6d0fcf30c42fdb9281fa94a672/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d352e676966)">
 
 - 🌱 I’m currently learning **Java Full-stack and Python**
 
