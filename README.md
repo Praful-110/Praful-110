@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praful Kailash Kasare</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src ="<img align="right" alt="coding" width=400 src ="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">">
+<img align="right" alt ="coding" width ="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praful-110&label=Profile%20views&color=0e75b6&style=flat" alt="praful-110" /> </p>
 
